@@ -31,3 +31,8 @@ h4 {
 .personal_details {
     line-height: 10px;
 }
+
+/* Eduaction and Job Heading */
+.eduJobHeading {
+    color: rgb(48, 155, 221);
+}
