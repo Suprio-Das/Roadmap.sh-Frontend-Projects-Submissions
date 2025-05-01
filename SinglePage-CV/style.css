@@ -17,6 +17,11 @@ h1 {
     margin-bottom: -5px;
 }
 
+.tag {
+    color: rgb(40, 155, 40);
+    font-size: 16px;
+}
+
 h4 {
     color: rgb(40, 155, 40);
 }
