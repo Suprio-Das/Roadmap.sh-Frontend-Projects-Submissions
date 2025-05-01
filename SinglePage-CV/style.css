@@ -35,4 +35,5 @@ h4 {
 /* Eduaction and Job Heading */
 .eduJobHeading {
     color: rgb(48, 155, 221);
+    margin-bottom: -10px;
 }
