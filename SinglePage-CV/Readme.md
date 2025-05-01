@@ -18,6 +18,6 @@ cd your-repo-name
 - Right-click and select Open with → your preferred web browser
 
 <br><br>
-Project URL: <a href="https://roadmap.sh/projects/single-page-cv">URL</a>
+Roadmap.sh Project URL: <a href="https://roadmap.sh/projects/single-page-cv">URL</a>
 <br>
 Live Link: <a href="https://single-page-cv-roadmapsh.netlify.app/">Single Page CV</a>
