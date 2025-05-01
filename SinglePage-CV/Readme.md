@@ -8,7 +8,7 @@ The goal of this project is to showcase how to create a structured, single-page 
 1. **Download or clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Suprio-Das/Roadmap.sh-Frontend-Projects-Submissions/tree/main/SinglePage-CV
 cd your-repo-name
 ```
 2. Open the website in your browser:
