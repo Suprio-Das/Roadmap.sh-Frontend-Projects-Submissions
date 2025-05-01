@@ -4,4 +4,5 @@ The goal of this project is to showcase how to create a structured, single-page 
 
 <br><br>
 Project URL: <a href="https://roadmap.sh/projects/single-page-cv">URL</a>
+<br>
 Live Link: <a href="https://single-page-cv-roadmapsh.netlify.app/">Single Page CV</a>
