@@ -2,3 +2,8 @@ header {
     width: 95%;
     margin: 0px auto;
 }
+
+.navbar-title {
+    display: flex;
+    gap: 10px;
+}
