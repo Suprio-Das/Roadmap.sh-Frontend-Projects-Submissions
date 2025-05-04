@@ -33,3 +33,7 @@ nav {
     text-decoration: none;
     color: black;
 }
+
+.banner {
+    height: 300px;
+}
