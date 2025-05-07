@@ -8,3 +8,10 @@ The goal of this project is to showcase how to create a structured, single-page 
 Project Url: <a href="https://roadmap.sh/projects/single-page-cv">URL</a>
 <br>
 Live Link: <a href="https://single-page-cv-roadmapsh.netlify.app/">URL</a>
+
+## 2. Basic HTML Website
+Goal of this project is to learn how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc.  Styling will be done in separate projects.
+<br><br>
+Project Url: <a href="https://roadmap.sh/projects/single-page-cv">URL</a>
+<br>
+Live Link: <a href="https://single-page-cv-roadmapsh.netlify.app/">URL</a>
