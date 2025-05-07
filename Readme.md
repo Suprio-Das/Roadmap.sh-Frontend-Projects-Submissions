@@ -14,4 +14,4 @@ Goal of this project is to learn how to structure a website using HTML i.e. diff
 <br><br>
 Project Url: <a href="https://roadmap.sh/projects/basic-html-website">URL</a>
 <br>
-Live Link: <a href="https://single-page-cv-roadmapsh.netlify.app/">URL</a>
+Live Link: Not Deployed Yet.
